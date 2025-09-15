@@ -2,7 +2,7 @@
 
 This project is the **Final Project of CS2104 Hardware Design Lab**.  
 We designed and implemented an interactive shooting game on FPGA that integrates a **laser gun, IR receivers, VGA display, and audio system**. Inspired by carnival balloon-shooting games, the player uses a laser gun to hit targets within a limited number of rounds.  
-
+<img width="762" height="501" alt="Image" src="https://github.com/user-attachments/assets/80e45f9e-cfbf-4573-964d-c7880d5bf001" />
 ## 📌 System Architecture  
 
 The system is divided into two main components:  

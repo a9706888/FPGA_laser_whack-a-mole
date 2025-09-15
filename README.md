@@ -71,5 +71,5 @@ This project provided a complete experience from **hardware circuit design to Ve
 
 ## 📄 More Information  
 
-For more detailed information and complete project documentation, please refer to [README.pdf](README.pdf).
+For more detailed information and complete project documentation, please refer to [report.pdf](report.pdf).
 

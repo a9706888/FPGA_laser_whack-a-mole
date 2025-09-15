@@ -2,7 +2,10 @@
 
 This project is the **Final Project of CS2104 Hardware Design Lab**.  
 We designed and implemented an interactive shooting game on FPGA that integrates a **laser gun, IR receivers, VGA display, and audio system**. Inspired by carnival balloon-shooting games, the player uses a laser gun to hit targets within a limited number of rounds.  
-<img width="762" height="501" alt="Image" src="https://github.com/user-attachments/assets/80e45f9e-cfbf-4573-964d-c7880d5bf001" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/80e45f9e-cfbf-4573-964d-c7880d5bf001" width="500" />
+</div>
+
 ## 📌 System Architecture  
 
 The system is divided into two main components:  
@@ -12,13 +15,19 @@ The system is divided into two main components:
   - Bipolar Junction Transistor (BJT) for switching  
   - External 15V power supply  
   - LED & 7-segment display for bullet/energy status  
-  - Buzzer for shooting indication  
+  - Buzzer for shooting indication
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/91b8f578-9671-4086-a8ef-b54e3e3b451d" width="500"/>
+</div>
 
 - **Target (Receiver Board)**  
   - IR Receivers  
   - VGA display output  
   - Pmod Audio for sound effects  
-  - External LEDs for target indication  
+  - External LEDs for target indication
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/336523c0-c7b5-4709-b7db-39e8b9fb856b" width="500"/>
+</div>
 
 ## 🎮 Game Flow  
 
@@ -59,3 +68,8 @@ The system is divided into two main components:
 ## 💡 Reflection  
 
 This project provided a complete experience from **hardware circuit design to Verilog implementation and gameplay mechanics**. We overcame challenges such as external power integration and VGA control, ultimately delivering a fun and interactive shooting game. Through this work, we deepened our understanding of FPGA-based digital design and gained valuable hands-on experience.  
+
+## 📄 More Information  
+
+For more detailed information and complete project documentation, please refer to [README.pdf](README.pdf).
+
